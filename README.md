@@ -7,3 +7,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maria-eduardamello&layout=compact&langs_count=8&card_width=320&theme=neon" />
 </a>
 
+
+## Tecnologias que uso no meu dia a dia
+* **Python** 
+* **JavaScript** ⚡
+* **Java** 
+* **HTML5** 
+* **CSS** 
