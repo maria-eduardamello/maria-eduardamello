@@ -1,4 +1,5 @@
-## Hi there, meu nome é Maria Eduarda 👋
+## Hi there, meu nome é Maria Eduarda ✔️
+Sou estudante de Sistemas de Infomação na Antonio Meneghetti Faculdade
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardamello___/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-mello-a218b4268/)
