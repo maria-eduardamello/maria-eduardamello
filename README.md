@@ -1,7 +1,7 @@
 ## Hi there, meu nome é Maria Eduarda 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/seu_perfil](https://www.instagram.com/eduardamello___/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/seu_perfil](https://www.linkedin.com/in/maria-eduarda-mello-a218b4268/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardamello___/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-mello-a218b4268/)
 
 
 <a href="https://github.com/maria-eduardamello/github-readme-stats">
